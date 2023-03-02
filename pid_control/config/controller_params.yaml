@@ -1,0 +1,6 @@
+controller_kp : 0.295
+controller_ki : 3.0
+controller_kd : 0.0
+controller_dt : 0.001
+
+
